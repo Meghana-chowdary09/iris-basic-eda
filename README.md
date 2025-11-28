@@ -28,7 +28,17 @@ In this notebook, I explored the Iris dataset and performed simple EDA (Explorat
 This project is the first step in my machine learning journey.  
 I will keep adding more notebooks as I learn more concepts step by step.
 
-## 🌟 Next Steps
-- Learn train/test split  
-- Try simple ML models  
-- Explore other datasets (Titanic, Heart Disease, etc.)
+## 📝 Progress
+
+### Day 1 – Basic EDA
+- Loaded the Iris dataset  
+- Explored shape, columns, and missing values  
+- Viewed summary statistics  
+- Plotted histograms  
+
+### Day 2 – First ML Model
+- Split data into training and testing sets  
+- Trained a Logistic Regression model  
+- Made predictions  
+- Calculated accuracy score  
+- Understood warnings and how to handle them.
