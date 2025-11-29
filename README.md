@@ -42,3 +42,10 @@ I will keep adding more notebooks as I learn more concepts step by step.
 - Made predictions  
 - Calculated accuracy score  
 - Understood warnings and how to handle them.
+
+### Day 3 – Model Evaluation
+- Generated confusion matrix to check correct vs incorrect predictions  
+- Visualized the matrix using seaborn heatmap  
+- Generated classification report to understand precision, recall, F1-score  
+- Observed that the model performs very well for all 3 classes
+-  Understood precision, recall, F1-score
