@@ -49,3 +49,11 @@ I will keep adding more notebooks as I learn more concepts step by step.
 - Generated classification report to understand precision, recall, F1-score  
 - Observed that the model performs very well for all 3 classes
 -  Understood precision, recall, F1-score
+
+### Day 4 Summary
+- Learned what KNN (K-Nearest Neighbors) algorithm is  
+- Trained KNN model on Iris dataset  
+- Compared it with Logistic Regression  
+- Observed accuracy, confusion matrix, and classification report  
+- Understood that different models give different results  
+
