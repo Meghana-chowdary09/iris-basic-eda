@@ -55,5 +55,14 @@ I will keep adding more notebooks as I learn more concepts step by step.
 - Trained KNN model on Iris dataset  
 - Compared it with Logistic Regression  
 - Observed accuracy, confusion matrix, and classification report  
-- Understood that different models give different results  
+- Understood that different models give different results
+
+### Day 5 Summary
+
+- Learned what feature scaling is  
+- Used StandardScaler to standardize the dataset  
+- Trained KNN on scaled data  
+- Compared accuracy before and after scaling  
+- Saw that scaling improves KNN performance  
+- Scaling ensures fair distance calculation for KNN  
 
