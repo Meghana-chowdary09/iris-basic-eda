@@ -50,14 +50,14 @@ I will keep adding more notebooks as I learn more concepts step by step.
 - Observed that the model performs very well for all 3 classes
 -  Understood precision, recall, F1-score
 
-### Day 4 Summary
+### Day 4 Comparison LogisticRegression and KNeighborsClassifier
 - Learned what KNN (K-Nearest Neighbors) algorithm is  
 - Trained KNN model on Iris dataset  
 - Compared it with Logistic Regression  
 - Observed accuracy, confusion matrix, and classification report  
 - Understood that different models give different results
 
-### Day 5 Summary
+### Day 5 Feature Scalling
 
 - Learned what feature scaling is  
 - Used StandardScaler to standardize the dataset  
