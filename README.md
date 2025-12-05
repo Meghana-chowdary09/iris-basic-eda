@@ -64,5 +64,14 @@ I will keep adding more notebooks as I learn more concepts step by step.
 - Trained KNN on scaled data  
 - Compared accuracy before and after scaling  
 - Saw that scaling improves KNN performance  
-- Scaling ensures fair distance calculation for KNN  
+- Scaling ensures fair distance calculation for KNN
+
+### Day 6 Decision tree + Random Forest + Hyperparameter tuning
+
+- Applied Decision Tree and Random Forest on Breast Cancer dataset  
+- Used GridSearchCV for hyperparameter tuning  
+- Tuned key parameters like max_depth, n_estimators, min_samples_split  
+- Observed improvement in accuracy after tuning  
+- Learned how GridSearchCV tests multiple combinations and selects the best model  
+
 
